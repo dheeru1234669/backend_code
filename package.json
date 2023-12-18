@@ -1,0 +1,25 @@
+{
+  "name": "ro_demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Legend System",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "moment-timezone": "^0.5.43",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.0",
+    "path": "^0.12.7",
+    "qrcode": "^1.5.3",
+    "sequelize": "^6.29.3"
+  }
+}
